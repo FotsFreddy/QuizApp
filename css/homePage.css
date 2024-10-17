@@ -1,0 +1,136 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'); */
+
+body{
+    padding: 2dvh 4dvw;
+}
+
+
+/* header */
+header{
+    font-weight: 500;
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.playerInfo,.playerScore {
+    display: flex;
+    align-items: center;
+}
+.playerInfo img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.playerScore{
+    width: 80px;
+    background-color: rgba(78, 164, 255, 1);
+    border-radius: 5px;
+    justify-content: center;
+}
+.playerScore p{
+    margin: 0 0 2px 5px;
+}
+.playerInfo img{
+    margin-right: 3px;
+}
+
+
+/* hero section */
+.hero{
+    height: max-content;
+    color: white;
+    border-radius: 5px;
+    background-image: url(../assets/images/Screenshot-copy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.backgroundclr{
+    height: 100%;
+    padding: 15px 0 15px 30px;
+    background-color: rgba(15, 70, 154, 0.62);
+}
+.hero__textContainer{
+    width: 68%;
+}
+.hero__textContainer .title{
+    font-size: 18px;
+}
+.hero__textContainer p{
+    font-size: 13px;
+    margin: 8px 0;
+}
+button{
+    font-size: 15px;
+    padding: 5px 7px;
+    color: var(--primary-blue);
+    font-weight: 600;
+    background-color: white;
+    border: none;
+    border-radius: 2px;
+}
+
+
+/* categories */
+.categories{
+    display: flex;
+    justify-content: space-between;
+}
+.quizCategories{
+    margin-bottom: 20px;
+}
+h3{
+    margin-bottom: 20px;
+}
+.logo{
+    width: 70px;
+    height: 50px;
+    border-radius: 4px;
+    background-color: rgba(171, 194, 227, 0.27);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quizCategories .logo{
+    margin-bottom: 3px;
+}
+.categories .container{
+    text-align: center;
+}
+.categories img, .recentActivity img{
+    width: 40px;
+    height: 40px;
+}
+
+/* recent activity */
+.recentActivity{
+    margin-bottom: 20px;
+}
+.recentActivity >div{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    place-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 10px rgb(167, 167, 167);
+}
+.recentActivity .logo{
+    margin-right: 20px;
+}
+.recentActivity p:first-child{
+    font-weight: 600;
+    font-size: 18px;
+}
+.questionNumber{
+    font-size: 10px;
+}
+.recentActivity .description{
+    justify-self: self-start;
+}
+.progressbar{
+    justify-self: self-end;
+}

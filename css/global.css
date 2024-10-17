@@ -1,0 +1,18 @@
+:root{
+    --primary-blue: rgba(15, 70, 154, 1);
+    --secondary-blue: rgba(64, 125, 216, 1);
+    --html-primary-clr: rgba(248, 41, 41, 1);
+    --html-secondary-clr: rgba(253, 228, 228, 1);
+    --js-primary-clr: rgba(218, 185, 44, 1);
+    --js-secondary-clr: rgba(254, 248, 220, 1);
+    --react-primary-clr: rgba(4, 215, 253, 1);
+    --react-secondary-clr: rgba(219, 249, 255, 1);
+    --C-primary-clr: rgba(3, 78, 133, 1);
+    --C-secondary-clr: rgba(217, 236, 255, 1);
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: system-ui; 
+}
