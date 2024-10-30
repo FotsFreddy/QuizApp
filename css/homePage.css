@@ -1,7 +1,9 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap'); */
-
+*{
+    animation-delay: 3s;
+}
 body{
-    padding: 2dvh 4dvw;
+    padding: 2dvh 3dvw;
+    background-color: rgba(239, 240, 243, 1);
 }
 
 
@@ -85,7 +87,7 @@ button{
 h3{
     margin-bottom: 20px;
 }
-.logo{
+.logo{ /* both the logo and the grey background */
     width: 70px;
     height: 50px;
     border-radius: 4px;
@@ -121,7 +123,7 @@ h3{
 .recentActivity .logo{
     margin-right: 20px;
 }
-.recentActivity p:first-child{
+.recentActivity p:first-child:not(.score){
     font-weight: 600;
     font-size: 18px;
 }

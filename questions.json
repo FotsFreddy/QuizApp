@@ -1,0 +1,330 @@
+[
+    {
+        "question": "WhatdoesHTMLstandor?",
+        "answer1": "Hyper Text Markup Language",
+        "answer2": "Hyperlinks and Text Markup Language",
+        "answer3": "Home Tool Markup Language",
+        "answer4": "Hyper Tool Markup Language",
+        "correctAnswer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Which HTML5 element is used to define navigation links?",
+        "answer1": "<nav>",
+        "answer2": "<navigate>",
+        "answer3": "<menu>",
+        "answer4": "<section>",
+        "correctAnswer": "<nav>"
+    },
+    {
+        "question": "Which new input type was introduced in HTML5?",
+        "answer1": "input type='text'",
+        "answer2": "input type='password'",
+        "answer3": "input type='email'",
+        "answer4": "input type='checkbox'",
+        "correctAnswer": "input type='email'"
+    },
+    {
+        "question": "Which HTML5 element is used to display a video file?",
+        "answer1": "<media>",
+        "answer2": "<movie>",
+        "answer3": "<video>",
+        "answer4": "<file>",
+        "correctAnswer": "<video>"
+    },
+    {
+        "question": "What is the purpose of the <canvas> element in HTML5?",
+        "answer1": "To draw graphics on the fly using JavaScript",
+        "answer2": "To display videos",
+        "answer3": "To display images",
+        "answer4": "To format text",
+        "correctAnswer": "To draw graphics on the fly using JavaScript"
+    },
+    {
+        "question": "Which element in HTML5 is used to group related options in a drop-down list?",
+        "answer1": "<datalist>",
+        "answer2": "<optgroup>",
+        "answer3": "<select>",
+        "answer4": " <option>",
+        "correctAnswer": "<optgroup>"
+    },
+    {
+        "question": "Which attribute is used in HTML5 to specify that an input field must be filled out before submitting the form?",
+        "answer1": "validate",
+        "answer2": "required",
+        "answer3": "mandatory",
+        "answer4": "fill",
+        "correctAnswer": "required"
+    },
+    {
+        "question": "Which tag in HTML5 is used to represent a piece of self-contained content, such as a blog post or a news article?",
+        "answer1": "<section>",
+        "answer2": "<article>",
+        "answer3": "<div>",
+        "answer4": "<aside>",
+        "correctAnswer": "<article>"
+    },
+    {
+        "question": "Which attribute in HTML5 is used to specify the character encoding for a web page?",
+        "answer1": "<charset>",
+        "answer2": "<encoding>",
+        "answer3": "<meta charset>",
+        "answer4": "<meta encoding>",
+        "correctAnswer": "<meta charset>"
+    },
+    {
+        "question": "What is the purpose of the HTML5 <aside> element?",
+        "answer1": " To display sidebar content related to the main content",
+        "answer2": "To mark off main sections of the page",
+        "answer3": "To create a navigation bar",
+        "answer4": "To create a footer",
+        "correctAnswer": "To display sidebar content related to the main content"
+    },
+    {
+       "question":"Whih typeof language is JavaScript?",
+        "answer1": "Compiled",
+        "answer2": "Interpreted",
+        "answer3": "Both Compiled and Interpreted",
+        "answer4": "Neither",
+        "correctAnswer": "Interpreted"
+    },
+    {
+       "question":"Which company developed JavaScript?",
+        "answer1": "Microsoft",
+        "answer2": "Netscape",
+        "answer3": "Google",
+        "answer4": "Mozilla",
+        "correctAnswer": "Netscape"
+    },
+    {
+       "question":"Which of the following is the correct syntax for referring to an external JavaScript file?",
+        "answer1": "<script src='filename.js'></script>",
+        "answer2": "<script href='filename.js'></script>",
+        "answer3": "<script ref='filename.js'></script>",
+        "answer4": "<script link='filename.js'></script>",
+        "correctAnswer": "<script src='filename.js'></script>"
+    },
+    {
+       "question":"How do you write a comment in JavaScript?",
+        "answer1": "<!-- This is a comment -->",
+        "answer2": "// This is a comment",
+        "answer3": "/* This is a comment */",
+        "answer4": "Both b and c",
+        "correctAnswer": "Both b and c"
+    },
+    {
+       "question":"What is the correct way to declare a JavaScript variable?",
+        "answer1": "var myVar;",
+        "answer2": "let myVar;",
+        "answer3": "const myVar;",
+        "answer4": "All of the above",
+        "correctAnswer": "All of the above"
+    },
+    {
+       "question":"How do you create a function in JavaScript?",
+        "answer1": "function myFunction() {}",
+        "answer2": "def myFunction() {}",
+        "answer3": "create myFunction() {}",
+        "answer4": "function:myFunction() {}",
+        "correctAnswer": "function myFunction() {}"
+    },
+    {
+       "question":"How do you check if two variables are equal in both value and type in JavaScript?",
+        "answer1": "==",
+        "answer2": "=",
+        "answer3": "===",
+        "answer4": "!=",
+        "correctAnswer": "==="
+    },
+    {
+       "question":"Which built-in method combines the elements of an array into a single string?",
+        "answer1": "concat()",
+        "answer2": "join()",
+        "answer3": "pop()",
+        "answer4": "map()",
+        "correctAnswer": "join()"
+    },
+    {
+       "question":"WhadoesHTLstandor?",
+        "answer1": "HyperTextMarkupLanguage",
+        "answer2": "HyperlinksandTextMarkupLanguage",
+        "answer3": "HomeToolMarkupLanguage",
+        "answer4": "HyperToolMarkupLanguage",
+        "correctAnswer": "HyperTextMarkupLanguage"
+    },
+    {
+       "question":"Which of the following is not a valid JavaScript data type?",
+        "answer1": "Undefined",
+        "answer2": "Number",
+        "answer3": "Float",
+        "answer4": "Boolean",
+        "correctAnswer": "Float"
+    },
+    {
+       "question":"What does the typeof operator return for an array?",
+        "answer1": "object",
+        "answer2": "array",
+        "answer3": "list",
+        "answer4": "undefined",
+        "correctAnswer": "object"
+    },
+    {
+        "question": "What is React?",
+        "answer1": "A backend framework",
+        "answer2": "A database management system",
+        "answer3": " A JavaScript library for building user interfaces",
+        "answer4": "A CSS framework",
+        "correctAnswer": " A JavaScript library for building user interfaces"
+    },
+    {
+        "question": "Who developed React?",
+        "answer1": "Microsoft",
+        "answer2": "Facebook",
+        "answer3": "Twitter",
+        "answer4": "Google",
+        "correctAnswer": "Facebook"
+    },
+    {
+        "question": "What is a component in React?",
+        "answer1": "A function or class that returns HTML",
+        "answer2": "A piece of CSS code",
+        "answer3": "A browser plugin",
+        "answer4": "A type of database",
+        "correctAnswer": "A function or class that returns HTML"
+    },
+    {
+        "question": "Which command is used to create a new React app?",
+        "answer1": "npx create-react-app myApp",
+        "answer2": "npm react myApp",
+        "answer3": "create-react-app myApp",
+        "answer4": "react new myApp",
+        "correctAnswer": "npx create-react-app myApp"
+    },
+    {
+        "question": "Which of the following is a correct way to declare a variable in C?",
+        "answer1": "int var;",
+        "answer2": "variable int;",
+        "answer3": "var int;",
+        "answer4": "int:var;",
+        "correctAnswer": "int var;"
+    },
+    {
+        "question": "What does JSX stand for?",
+        "answer1": "JavaScript Extra",
+        "answer2": "JavaScript Extension",
+        "answer3": "JavaScript Execution",
+        "answer4": "JavaScript XML",
+        "correctAnswer": "JavaScript XML "
+    },
+    {
+        "question": "Which of the following is used to pass data between components in React?",
+        "answer1": "Variables",
+        "answer2": "Props",
+        "answer3": "Context",
+        "answer4": "State",
+        "correctAnswer": "Props"
+    },
+    {
+        "question": " What is the purpose of the useState hook in React?",
+        "answer1": "To fetch data from an API",
+        "answer2": "To handle component lifecycle methods",
+        "answer3": "To manage component state",
+        "answer4": "To handle form submissions",
+        "correctAnswer": "To manage component state"
+    },
+    {
+        "question": "Which hook is used to run side effects in React?",
+        "answer1": "useEffect",
+        "answer2": "useState",
+        "answer3": "useReducer",
+        "answer4": "useContext",
+        "correctAnswer": "useEffect"
+    },
+    {
+        "question": "Which of the following is true about React keys?",
+        "answer1": "They are optional",
+        "answer2": "They should be unique for each sibling component",
+        "answer3": "They can be duplicated within the same list",
+        "answer4": "They must be used only for lists",
+        "correctAnswer": "They should be unique for each sibling component"
+    },
+    {
+        "question": "Which of the following data types is not supported in C?",
+        "answer1": "int",
+        "answer2": "float",
+        "answer3": "bool",
+        "answer4": "char",
+        "correctAnswer": "bool"
+    },
+    {
+        "question": "Which of the following is the correct way to initialize an array in C?",
+        "answer1": "int arr[] = {1, 2, 3};",
+        "answer2": "array int arr[] = [1, 2, 3];",
+        "answer3": "int arr[] = [1, 2, 3];",
+        "answer4": "int array[] = (1, 2, 3);",
+        "correctAnswer": "int arr[] = {1, 2, 3};"
+    },
+    {
+        "question": "Which operator is used to get the address of a variable in C?",
+        "answer1": "*",
+        "answer2": "&",
+        "answer3": "%",
+        "answer4": "#",
+        "correctAnswer": "&"
+    },
+    {
+        "question": "What is the value of x after the following code executes?\nint x = 5; x = x + 2 * 3;",
+        "answer1": "11",
+        "answer2": "13",
+        "answer3": "16",
+        "answer4": "21",
+        "correctAnswer": "11"
+    },
+    {
+        "question": "Which of the following loops in C guarantees that the loop body will be executed at least once?",
+        "answer1": "for",
+        "answer2": "while",
+        "answer3": "do...while",
+        "answer4": "All of the above",
+        "correctAnswer": "do...while"
+    },
+    {
+        "question": "What is a pointer in C?",
+        "answer1": "A variable that stores an address of another variable",
+        "answer2": "A special type of array",
+        "answer3": "A variable that stores multiple values",
+        "answer4": "A function in C",
+        "correctAnswer": "A variable that stores an address of another variable"
+    },
+    {
+        "question": "Which header file is necessary to use malloc() in C?",
+        "answer1": "<stdio.h>",
+        "answer2": "<stdlib.h>",
+        "answer3": "<conio.h>",
+        "answer4": "<string.h>",
+        "correctAnswer": "<stdlib.h>"
+    },
+    {
+        "question": "What is the default return type of a function in C, if no return type is specified?",
+        "answer1": "int",
+        "answer2": "void",
+        "answer3": "float",
+        "answer4": "char",
+        "correctAnswer": "int"
+    },
+    {
+        "question": "Which function is used to dynamically allocate memory in C?",
+        "answer1": "alloc()",
+        "answer2": "malloc()",
+        "answer3": "dynamic_alloc()",
+        "answer4": "calloc()",
+        "correctAnswer": "malloc()"
+    },
+    {
+        "question": "Which of the following functions is used to read a string from the user in C?",
+        "answer1": "scanf()",
+        "answer2": "gets()",
+        "answer3": "read()",
+        "answer4": "input()",
+        "correctAnswer": "gets()"
+    }
+]
