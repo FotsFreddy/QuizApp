@@ -11,8 +11,8 @@ main{
     align-items: center;
 }
 .scoreContainer__score{   
-    width: 170px;
-    height: 170px;
+    width: 190px;
+    height: 190px;
     background-color: var(--primary-blue);
     border: 10px solid var(--secondary-blue);
     border-radius: 50%;
@@ -20,7 +20,7 @@ main{
     text-align: center;
     text-wrap: wrap;
 }
-.scoreContainer__score p{
+.scoreContainer__score p, span{
     font-size: 30px;
     font-weight: 600;
     color: white;
@@ -37,7 +37,7 @@ main{
     font-size: 28px;
     font-weight: 400;
 }
-.scoreContainer__congratsText p{
+.scoreContainer__congratsText p, #playerName{
     color: var(--secondary-blue);
     font-size: 20px;
 }

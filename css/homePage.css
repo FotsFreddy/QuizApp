@@ -1,8 +1,5 @@
-*{
-    animation-delay: 3s;
-}
 body{
-    padding: 2dvh 3dvw;
+    padding: 2dvh 2dvw;
     background-color: rgba(239, 240, 243, 1);
 }
 

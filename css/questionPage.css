@@ -61,3 +61,11 @@ button:active{
 label{
     width: 100%;
 }
+
+.correctAnswerBg{
+    background-color: rgb(0, 86, 0);
+    color: white;
+}
+.wrongAnswerBg{
+    background-color: rgb(233, 0, 0);
+}

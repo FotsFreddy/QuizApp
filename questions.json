@@ -1,6 +1,6 @@
 [
     {
-        "question": "WhatdoesHTMLstandor?",
+        "question": "What does HTML stand for?",
         "answer1": "Hyper Text Markup Language",
         "answer2": "Hyperlinks and Text Markup Language",
         "answer3": "Home Tool Markup Language",
@@ -44,7 +44,7 @@
         "answer1": "<datalist>",
         "answer2": "<optgroup>",
         "answer3": "<select>",
-        "answer4": " <option>",
+        "answer4": "<option>",
         "correctAnswer": "<optgroup>"
     },
     {
@@ -73,14 +73,14 @@
     },
     {
         "question": "What is the purpose of the HTML5 <aside> element?",
-        "answer1": " To display sidebar content related to the main content",
+        "answer1": "To display sidebar content related to the main content",
         "answer2": "To mark off main sections of the page",
         "answer3": "To create a navigation bar",
         "answer4": "To create a footer",
         "correctAnswer": "To display sidebar content related to the main content"
     },
     {
-       "question":"Whih typeof language is JavaScript?",
+       "question":"Whih type of language is JavaScript?",
         "answer1": "Compiled",
         "answer2": "Interpreted",
         "answer3": "Both Compiled and Interpreted",
@@ -144,14 +144,6 @@
         "correctAnswer": "join()"
     },
     {
-       "question":"WhadoesHTLstandor?",
-        "answer1": "HyperTextMarkupLanguage",
-        "answer2": "HyperlinksandTextMarkupLanguage",
-        "answer3": "HomeToolMarkupLanguage",
-        "answer4": "HyperToolMarkupLanguage",
-        "correctAnswer": "HyperTextMarkupLanguage"
-    },
-    {
        "question":"Which of the following is not a valid JavaScript data type?",
         "answer1": "Undefined",
         "answer2": "Number",
@@ -171,9 +163,9 @@
         "question": "What is React?",
         "answer1": "A backend framework",
         "answer2": "A database management system",
-        "answer3": " A JavaScript library for building user interfaces",
+        "answer3": "A JavaScript library for building user interfaces",
         "answer4": "A CSS framework",
-        "correctAnswer": " A JavaScript library for building user interfaces"
+        "correctAnswer": "A JavaScript library for building user interfaces"
     },
     {
         "question": "Who developed React?",
@@ -224,7 +216,7 @@
         "correctAnswer": "Props"
     },
     {
-        "question": " What is the purpose of the useState hook in React?",
+        "question": "What is the purpose of the useState hook in React?",
         "answer1": "To fetch data from an API",
         "answer2": "To handle component lifecycle methods",
         "answer3": "To manage component state",
