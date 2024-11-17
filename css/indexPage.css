@@ -71,3 +71,7 @@ button{
     background-color: rgba(248, 198, 96, 1);
     align-self: center;
 }
+button:active{
+    position: relative;
+    top: 2px;
+}

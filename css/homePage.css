@@ -130,6 +130,6 @@ h3{
 .recentActivity .description{
     justify-self: self-start;
 }
-.progressbar{
+.recentScore{
     justify-self: self-end;
 }

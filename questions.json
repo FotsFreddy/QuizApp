@@ -192,12 +192,12 @@
         "correctAnswer": "npx create-react-app myApp"
     },
     {
-        "question": "Which of the following is a correct way to declare a variable in C?",
-        "answer1": "int var;",
-        "answer2": "variable int;",
-        "answer3": "var int;",
-        "answer4": "int:var;",
-        "correctAnswer": "int var;"
+        "question": "Which method is used to render a React component to the DOM?",
+        "answer1": "DOM.render()",
+        "answer2": "renderDOM()",
+        "answer3": "ReactDOM.render()",
+        "answer4": "React.render()",
+        "correctAnswer": "ReactDOM.render()"
     },
     {
         "question": "What does JSX stand for?",
@@ -205,7 +205,7 @@
         "answer2": "JavaScript Extension",
         "answer3": "JavaScript Execution",
         "answer4": "JavaScript XML",
-        "correctAnswer": "JavaScript XML "
+        "correctAnswer": "JavaScript XML"
     },
     {
         "question": "Which of the following is used to pass data between components in React?",
