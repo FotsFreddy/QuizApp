@@ -16,9 +16,10 @@ main{
     background-color: var(--primary-blue);
     border: 10px solid var(--secondary-blue);
     border-radius: 50%;
-    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    text-wrap: wrap;
 }
 .scoreContainer__score p, span{
     font-size: 30px;
